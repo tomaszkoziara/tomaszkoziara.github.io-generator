@@ -1,6 +1,7 @@
 ---
 title: What's a blockchain and how to break it
 date: 2018-04-22 17:42:55
+comments: true
 tags:
 - blockchain
 - cryptocurrencies
