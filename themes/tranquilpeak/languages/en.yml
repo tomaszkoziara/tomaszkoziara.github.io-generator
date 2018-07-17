@@ -77,6 +77,6 @@ post:
 
 author:
     # Your biography (Markdown and HTML supported)
-    bio: "<s>I'm a coder</s><br><s>I'm a software engineer</s><br><s>I'm a dreamer</s><br>I'm a human being"
+    bio: "I'm a coder<br>I'm a traveller<br>I'm a dreamer<br>"
     # Your job
     job: "Software Engineer @<a href=\"https://www.trueblue.it/en\">Trueblue</a>"

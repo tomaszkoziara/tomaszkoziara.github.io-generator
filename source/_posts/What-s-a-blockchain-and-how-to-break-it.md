@@ -76,5 +76,9 @@ So for example when a new block is sent to every node and each node checks block
 
 # TL;DR;
 
-A blockchain security is given the use of hashing, creating a tight chain, by the proof-of-work and by being distributed.
+A blockchain security is given by:
+
+* the use of hashing, that creates a tight chain that can't be tampered with unless you recalculate all the hashes backwards and that would be a lot of work
+* the proof-of-work which makes non trivial to calculate a hash
+* being distributed, so doesn't matter if an attacker compromises a single ledger, because there has to be consensus among all ledgers.s
 
